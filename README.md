@@ -1,4 +1,3 @@
-securitycontrol
+Readme
 ===============
-
-SecurityControl software repository
+This is repository for storing all versions of SecurityControl software.
